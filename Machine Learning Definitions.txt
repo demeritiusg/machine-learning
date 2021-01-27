@@ -1,0 +1,101 @@
+## Machine Learning Definitions:
+[//]: <> (Machine Learning definations for my learning and professional growth)
+
+
+(General) Categorical Variables: a variable that can take on one of a limited, and usually fixed, number of possible values, assigning each individual or other unit of obseravtion to a particular group or nominal category on the basis of some qualitive property.
+
+(General) Ordinal Variables: a categorical variable for which the possible values are ordered. Ordinal variables can be considered "in between" catagorical and quantitative variables. EX: Education level could be considered ordinal variables. elementary, middle, high school.
+
+(General) Numerical Variables: a variable where the measurement or number has a numberical meaning. For example, total rainfall measured in inches is a numerical variable.
+
+(General) Cost Function: a function of input prices and output quantity whose value is the cost of making that output given those input prices, often applied through the use of the cost curve by companies to minimize cost and maximize production efficiency.
+
+(General) Gradient Descent: a first-order iterative optimization algorithm for finding a local minimum for a differentiable function. The idea is to take repeatable steps in the opposite direction of the gradient (or approximate gradient) of the function at the current point, because this is the direction of the steepest descent.
+
+(General) Overfitting: A modeling error that occurs when a function is too closey fit to a limited set of data points.
+
+(General) Underfitting: A model that can neither model the training data nor generalize to new data. An underfit machine learning model is not a suitable model and will be obvious as it will have poor performance on the training data.
+
+(General) Training Data: A collection of labeled information that's used to build a machine learning model. It usally consists of annotated text, images, video, or audio. Through training data, an AI model learns to perfom its task at a high level of accuarcy.
+
+(General) Validating Data: Checking the accuracy and quality of source data before using, importing or otherwise processing the data.
+
+(General) Test Data: Data which has been specifically identified for use in tests, typically of a computer program.
+
+(General) Precision vs Recall: In pattern recognition, information retrieval and classification, precision is the fraction of relevant instances among the retrieved relecant instances among all relevant instances.
+
+(General) Bias: A phenomenon that occurs when an algorithm produces results that are systemically prejuced due to erroneous assumptions in the machine learning process.
+
+(General) Variance: In machine learning, is a type of error that occures due to a model's sensitivity to small fluctuations in a training set. High variance would cause an algorithm to model the noise in the training set. This is commonly referred to as overfitting.
+
+(General) Lift: A measure of the performance of a targeting model (association rule) at predicting or classifying cases as having an enhanced response (with respect to the population as a whole), measured against a random choice targeting model.
+
+(SL) Supervised Learning: Machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set or training examples.
+
+(SL) Linear Regression: Algorithm where the predicted output is continuous and has a constant slope. It's used to predict values wihtin a continuous range, (e.g. sales, price) rather than trying to classfy them into categories (e.g. cat, dog). Used in forcasting and finding out cause and effec relationshop between variables.
+
+(SL) Poisson Regression: Used to model response variables (Y-values) that are counts. It tells you whichi explanatory variables have a statistically significant effect on the response variable. In other words, it tells you which X-values work on the Y-values.
+
+(SL) Classification Rate: The ratio of correctly classified objects with the total number of objects in the test set.
+
+(SL) Decision Tree: A machine learning algorithm where the training data(root) is split according to a decision/rule(branch) into seperate nodes that represents features(attributes) into eventual outcomes(leaf nodes).
+
+(SL) Logistic Regression: Used to model the probability of a certain class of event existing such as pass/fail, win/lose, alive/dead, healthy/sick.
+
+(SL) Naive Bayes Classfiers: A family of simple "probablilistic classifiers" based on applying Bayes' therorem with strong independence assumptions between the features. They are among the simplest Bayesian network models, but coupled with kernel denisty estimation, they can achieve higher accuracy levels.
+
+(SL) K-Nearest Neighbor: An algorithm that classifies data points based on the points that are most similar to it.
+
+(SL) SVM: An algorithm that finds a hyperplane in an N-dimensional space (N = the number of features) that distinctly classifies the data points.
+
+(SL) Gaussian Mixture Model: A probabilistic model that assumes all the data points are generated from a mixture of a tinite number Gaussian distrutions with unknown parameters.
+
+(US) Unsupervised Learning:
+
+(US) Hierarchiral Clustering:
+
+(US) K-Means Clustering:
+
+(US) DBScan:
+
+(US) HDBScan:
+
+(US) Fuzzy C-Means:
+
+(US) Mean Shift:
+
+(US) Agglomerative:
+
+(US) OPTICS:
+
+(US) Clustering:
+
+(US) Association Rule Learning:
+
+(US) Aprion Alogorithm:
+
+(US) EGLAT Algorithm:
+
+(US) FP Trees:
+
+(US) Dimensionalty Reduction:
+
+(US) Princial Component Analysis (PCA):
+
+(US) Random Projection:
+
+(US) NMF:
+
+(US) T-SNE:
+
+(US) UMAP:
+
+(EL) Ensemble Learning:
+
+(EL) Boosting:
+
+(EL) Stacking:
+
+(RL) Reinforcement Learning:
+
+(RL) G-Leaning:
